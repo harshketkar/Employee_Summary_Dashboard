@@ -23,3 +23,7 @@ The data used for this dashboard is from [Excel/CSV file].
 1.  Download the Tableau workbook (.twb or .twbx) from the repository.
 2.  Open the workbook using Tableau Desktop or Tableau Public.
 3.  Interact with the dashboard using filters and tooltips to explore the data.
+
+![Employee_Summary_Dashboard_Screenshot](https://github.com/user-attachments/assets/a93b7c69-8ff1-408f-8b99-02c53500eccd)
+
+
